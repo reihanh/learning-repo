@@ -1,2 +1,11 @@
 # learning-repo
- This is my learning journal
+
+This is a project-based learning repos.
+
+## Machine Learning Projects
+
+nothing here
+
+## Python Projects
+
+nothing here
