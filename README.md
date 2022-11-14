@@ -8,4 +8,18 @@ nothing here
 
 ## Python
 
-nothing here
+### OOP
+
+Inheritance
+
+Polymorphism
+
+Encapsulation
+
+### Dynamic Programming
+
+Recursive
+
+memoization
+
+tabulation
