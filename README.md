@@ -2,10 +2,10 @@
 
 This is a project-based learning repos.
 
-## Machine Learning Projects
+## Machine Learning
 
 nothing here
 
-## Python Projects
+## Python
 
 nothing here
