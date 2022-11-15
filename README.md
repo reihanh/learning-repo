@@ -1,25 +1,23 @@
-# learning-repo
-
 This is a project-based learning repos.
 
-## Machine Learning
+# Machine Learning
 
 nothing here
 
-## Python
+# Python
 
-### OOP
+## OOP
 
-Inheritance
+### Inheritance
 
-Polymorphism
+### Polymorphism
 
-Encapsulation
+### Encapsulation
 
-### Dynamic Programming
+## Dynamic Programming
 
-Recursive
+### Recursion
 
-memoization
+### Memoization
 
-tabulation
+### Tabulation

@@ -1,7 +1,8 @@
-
 def permute(string, pocket=""):
+	
 	if len(string) == 0:
 		print(pocket)
+
 	else:
 		# make 3 variable, each letter, front string, back string
 		for i in range(len(string)):
