@@ -1,10 +1,10 @@
 def sort(arr):
 	iteration = 0
 	for i in range(len(arr)):
-		for i in range(len(arr)-1):
+		for j in range(len(arr)-i-1):
 			iteration +=1
-			if arr[i]>arr[i+1]:
-				arr[i], arr[i+1] = arr[i+1], arr[i]
+			if arr[j]>arr[j+1]:
+				arr[j], arr[j+1] = arr[j+1], arr[j]
 
 	return arr, iteration
 
