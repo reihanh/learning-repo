@@ -17,3 +17,6 @@ arr = [2, 4, 8, 9, 12, 15, 18, 41, 81]
 target = 41
 
 print(search(arr,target))
+
+# note
+# array must be sorted first, so if array is unsorted then sort first
